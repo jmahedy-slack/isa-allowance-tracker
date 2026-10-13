@@ -1,0 +1,10 @@
+{
+  "name": "isa-allowance-tracker",
+  "version": "1.0.0",
+  "description": "Ninety One ISA Allowance Tracker — £20,000 UK ISA allowance for tax year 2026/27",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "license": "MIT"
+}
